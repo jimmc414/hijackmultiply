@@ -4,6 +4,9 @@
 
 HiJackMultiply is a fun and educational command-line game designed to help kids (or anyone!) practice their multiplication tables. The game challenges you to answer multiplication questions as quickly as possible—the faster you answer, the higher your score!
 
+![image](https://github.com/jimmc414/hijackmultiply/assets/6346529/16b509ad-330e-427f-8cc2-1a62529d8770)
+
+
 ## Installation
 
 1. Make sure Python 3.x is installed on your machine.
