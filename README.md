@@ -15,8 +15,8 @@ HiJackMultiply is a fun and educational command-line game designed to help kids 
 ## How to Run
 
 1. Open your terminal.
-2. Navigate to the folder containing `your_game_file.py`.
-3. Run the command `python your_game_file.py`.
+2. Navigate to the folder containing `hijackmultiply.py`.
+3. Run the command `hijackmultiply.py`.
 
 ## Gameplay Instructions
 
